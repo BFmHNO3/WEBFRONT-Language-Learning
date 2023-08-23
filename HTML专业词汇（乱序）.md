@@ -1,4 +1,4 @@
-# HTML专业词汇（乱序）
+# 1. HTML专业词汇（乱序）
 
 **Start Tag**   $\Longrightarrow$   开始标签
 
@@ -42,4 +42,14 @@
 
 **cellspacing**   $\Longrightarrow$   巢空间
 
-cente
+# 2. JavaScript（乱序）
+
+==DOM==【**Document Object Model**】   $\Longrightarrow$   文档对象模型
+
+==BOM==【**Browser Object Model**】   $\Longrightarrow$   浏览器对象模型
+
+==ECMAScript==【**European Computer Manufacturers Association Script **】   $\Longrightarrow$   欧洲计算机制造商协会脚本
+
+==RegExp==【**Regular Expression**】   $\Longrightarrow$   正则表达式
+
+==API==【**Application Programming Interface**】   $\Longrightarrow$   应用程序编程接口
